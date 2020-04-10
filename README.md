@@ -1,1 +1,1 @@
-# Basic-C
+#simple programs in C
